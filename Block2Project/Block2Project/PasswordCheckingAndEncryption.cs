@@ -8,5 +8,10 @@ namespace Block2Project;
  */
 public class PasswordCheckingAndEncryption
 {
-    
+
+    public static void Main()
+    {
+        Console.Write("Enter your password: ");
+    }
 }
+
